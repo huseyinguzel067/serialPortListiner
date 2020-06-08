@@ -1,0 +1,26 @@
+C:\Users\huseying\Desktop\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\huseying\Desktop\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\huseying\Desktop\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+C:\Users\huseying\Desktop\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\huseying\Desktop\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\huseying\Desktop\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
+C:\Users\huseying\Desktop\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\huseying\Desktop\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\huseying\Desktop\tarım makinaları\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\huseying\Desktop\tarım makinaları\SerialPortListener_270410 (1)\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\user\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\user\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\user\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\user\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\user\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\user\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\user\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
+C:\Users\meryem\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\meryem\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\meryem\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\meryem\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\meryem\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+C:\Users\meryem\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\meryem\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\meryem\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
